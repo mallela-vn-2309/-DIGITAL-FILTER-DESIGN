@@ -50,6 +50,10 @@ The simulation results clearly demonstrated:
 
 Accurate sample shifting through the pipeline.
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1b90a6ff-f54f-4b0e-8ec1-9e2ba1725ed8" />
+
 Correct application of multiply-and-accumulate logic.
 
 Outputs matched expected FIR filter behavior.
